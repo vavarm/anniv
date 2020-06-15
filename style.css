@@ -4,6 +4,10 @@
     padding: 22px;
 }
 
+.aPropos :hover{
+    color: blueviolet;
+}
+
 .left {
     width: 40%;
     top: 22px;
@@ -27,4 +31,8 @@
     border-radius:15%;
     padding: 20px;
     margin-bottom: 20px;
+}
+
+.box :hover{
+    color: green;
 }
