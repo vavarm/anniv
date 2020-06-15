@@ -1,0 +1,30 @@
+.aPropos {
+    border: solid;
+    margin: 22px;
+    padding: 22px;
+}
+
+.left {
+    width: 40%;
+    top: 22px;
+    margin-bottom: 22px;
+    margin-left: 22px;
+    padding: 22px;
+    float: left;
+}
+
+.right {
+    margin-left: 50%;
+    width: 40%;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    margin-right: 22px;
+    padding: 22px;
+}
+
+.box {
+    border: solid;
+    border-radius:15%;
+    padding: 20px;
+    margin-bottom: 20px;
+}
