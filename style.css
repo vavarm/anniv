@@ -36,3 +36,13 @@
 .box :hover{
     color: green;
 }
+
+.plan{
+    width: 90%;
+    heiht: auto;
+    margin: 5%;
+}
+
+.fSize{
+    font-size: 30px;
+}
